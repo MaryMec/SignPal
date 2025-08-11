@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="logo">#d5b266</color>
+    <!-- Primary -->
+    <color name="primaryColor">#4CAF50</color> <!-- Green -->
+    <color name="primaryDarkColor">#388E3C</color>
+    <color name="primaryLightColor">#C8E6C9</color>
+
+    <!-- Secondary -->
+    <color name="secondaryColor">#2196F3</color> <!-- Blue -->
+    <color name="secondaryDarkColor">#1976D2</color>
+    <color name="secondaryLightColor">#BBDEFB</color>
+    <color name="accentColor">#FFC107</color> <!-- Amber -->
+
+    <!-- Neutral -->
+    <color name="backgroundColor">#F5F5F5</color> <!-- Light grey -->
+    <color name="surfaceColor">#FFFFFF</color>
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+</resources>
